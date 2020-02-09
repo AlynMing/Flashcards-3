@@ -5,6 +5,7 @@
 
 ### App Description
 - Using Swift to code a simple flashcard app for iOS system.
+- The screen will appear a card that you van flip between the question and the answer to learn by heart, below are optional choices when you want to test ypur memory over the right answer.
 
 ### App Walk-though
 
