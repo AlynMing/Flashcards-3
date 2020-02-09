@@ -67,6 +67,7 @@ class ViewController: UIViewController {
         btnOptionOne.isHidden = true
         btnOptionThree.isHidden = true
         frontLabel.isHidden = true
+        backLabel.isHidden = false
     }
     
     @IBAction func didTapOptionThree(_ sender: Any) {
